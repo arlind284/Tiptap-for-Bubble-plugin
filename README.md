@@ -1,5 +1,4 @@
 # Tiptap for Bubble.io
-[Forum thread](https://forum.bubble.io/t/new-free-plugin-rich-text-editor-with-customizable-menus-tiptap/238504)
 
 [Demo](https://tiptap-demo.bubbleapps.io/version-test/doc/demo)
 
